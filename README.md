@@ -10,4 +10,6 @@ Jagler David Velasquez Velasquez
 1069500853
 Ing. de sistemas
 
-https://www.kaggle.com/competitions/playground-series-s3e7/data
+https://www.kaggle.com/competitions/playground-series-s3e7/data 
+
+Video entrega 2 https://youtu.be/ounR_052aro
