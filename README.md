@@ -14,10 +14,16 @@ https://www.kaggle.com/competitions/playground-series-s3e7/data
 
 Video entrega 2 https://youtu.be/ounR_052aro
 
-## Abrir Colab 1
+# Entrega Final
+
+## Video
+
+[Video Entrega Final](aqui va la url del video)
+
+## Exploración y procesado de datos
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rfgXt93qdeNjfcHngbC3ITyBj6cdsTUl)
 
-## Abrir Colab 2
+## Modelo
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1caX280GX04Zt44BBU2e4tqyZezP-qQQW#scrollTo=lOLkHfrz67_l)
