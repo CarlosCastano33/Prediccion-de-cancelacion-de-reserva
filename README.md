@@ -18,7 +18,7 @@ Video entrega 2 https://youtu.be/ounR_052aro
 
 ## Video
 
-[Video Entrega Final](aqui va la url del video)
+[Video Entrega Final]( https://youtu.be/zUiXuPY7RkM )
 
 ## Exploración y procesado de datos
 
